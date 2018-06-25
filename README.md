@@ -1,2 +1,3 @@
-# avr-assembler-template
-Mallkoden för att sätta upp ett AVR-assembler-projekt för inbyggda system, anpassad för Atmel Atmega32U4
+# DA215A-avr-assembler-template
+
+Template for setting up an AVR-project for the Atmega 32U4 using the Atmel AVR Assembler. Written by me as an alternative to Atmel/AVR Studio.
